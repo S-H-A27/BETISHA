@@ -110,5 +110,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For inquiries or support, reach out to us at:
-- **Email**: support@betisha.com
+- **Email**: mariitakevin305@gmail.com
 - **Twitter**: [@BetishaOfficial](https://twitter.com/BetishaOfficial)
